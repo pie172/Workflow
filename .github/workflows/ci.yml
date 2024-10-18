@@ -41,7 +41,6 @@ jobs:
         name: imc_executable_linux
         path: dist/app # O executável gerado no Linux (sem extensão)
 
-jobs:
   build-windows:
   runs-on: windows-latest
   steps:
